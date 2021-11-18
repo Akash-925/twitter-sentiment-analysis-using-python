@@ -10,10 +10,10 @@ import matplotlib.pyplot as plt
 plt.style.use('fivethirtyeight')
 
 # Twitter Api Credentials
-consumerKey ='GXhUB2Pie4VVFNCSM0yxkoh5L'
-consumerSecret ='ddze8J0bng1BaGFmScYUotJSwfLu9qZiEpMo79uPpX7dp4RqpD'
-accessToken ='581625589-EcaBnu9MZpIcoegihCQWvAvOA9c8DyglB4Fugc30'
-accessTokenSecret ='KlUzdywMJ55qpWHgFnd6fjahUA43Cb6WyfKVn69j6EYV1'
+consumerKey ='***********'
+consumerSecret ='**********'
+accessToken ='**********'
+accessTokenSecret ='*********'
 
 # Create the authentication object
 authenticate = tweepy.OAuthHandler(consumerKey, consumerSecret) 
