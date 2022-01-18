@@ -1,4 +1,4 @@
-# twitter-sentiment-analysis-using-python
+# Sentiment Analysis using Twitter posts
 
 Our main objective is to gather some textual data(mainly tweets) and parse it to infer some sentimental meaning from that data.
 
